@@ -3,7 +3,7 @@ n=3-i
 for j in range(n-1):
 print(n,"*",+end="")
 print(n)
-print("1\n1")
+print("1\n")
 for i in  range(2,4):
 for j in range(i-1):
 print(i,"*",+ end="")
